@@ -1,0 +1,18 @@
+repo_name: kiriti999/kiriti999
+report_id: 83cc0754dc054cbca2134624aa798bc4
+repo_type: Public
+timestamp: '2023-11-09T19:49:07+00:00'
+requested_by: kiriti999
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
