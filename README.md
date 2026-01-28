@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiriti999
+- 👋 Hi, I’m Kiriti Komaragiri
 - 👋 I'm certified AWS professional architect with 14yrs of experience
 - 👀 I’m interested in cloud technologies, architecture and trainings
 - 🌱 I’m currently learning system design, event driven systems and also working on few saas ideas
